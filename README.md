@@ -1,17 +1,13 @@
 🕸️ Web Scraping Projects — Data Collection & Automation Suite
 
-A curated collection of production-ready web scraping projects focused on extracting valuable insights from the web — safely, efficiently, and at scale.
+A curated collection of real-world web scraping projects designed to extract structured insights from different platforms — efficiently, ethically, and at scale.
 
-This repository brings together multiple scraping workflows used in real-world scenarios such as:
+This repository currently includes scrapers for:
 
-📚 Collecting product & book information
+📖 Wikipedia research data
 
-💼 Extracting job listings
+▶️ YouTube video insights
 
-🏠 Scraping property data
+🖼️ Stock image metadata & download automation
 
-📊 Monitoring price changes
-
-🔎 Researching websites at scale
-
-Built using industry-standard tools and practices followed at companies like Infosys, Wipro, HCL, and Accenture.
+Built with clean, modular code — following practices used across enterprise engineering teams.
